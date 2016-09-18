@@ -1,0 +1,6 @@
+node_modules
+src/ts/**/*.js
+src/ts/**/*.map
+
+npm-debug.log
+*.sublime-workspace
