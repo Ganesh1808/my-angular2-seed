@@ -1,5 +1,5 @@
 {
-  "name": "my-angular2-seed",
+  "name": "stratawork",
   "version": "1.0.0",
   "scripts": {
     "clean": "rm -f ./src/ts/app*.js; rm -f ./src/ts/*.js.map",
